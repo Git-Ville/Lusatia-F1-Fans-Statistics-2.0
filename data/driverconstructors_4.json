@@ -1,0 +1,3715 @@
+{
+  "Data": {
+    "season": "2026",
+    "driver": [
+      {
+        "config": {
+          "category_id": 1,
+          "order": 1,
+          "key": "fPoints",
+          "title": "driver_statistics_title_fPoints",
+          "columns": [
+            {
+              "title": "statistics_drivers_fPoints_column_1",
+              "showOnMobile": true,
+              "key": "playername",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_fPoints_column_2",
+              "showOnMobile": false,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_fPoints_column_3",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_drivers_fPoints_column_4",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "11161",
+            "playername": "Kimi Antonelli",
+            "curvalue": 23.8,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 100.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "124",
+            "playername": "George Russell",
+            "curvalue": 28.0,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 84.0,
+            "rnk": 2
+          },
+          {
+            "playerid": "115",
+            "playername": "Charles Leclerc",
+            "curvalue": 23.4,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 80.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "110",
+            "playername": "Lewis Hamilton",
+            "curvalue": 22.9,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 73.0,
+            "rnk": 4
+          },
+          {
+            "playerid": "131",
+            "playername": "Max Verstappen",
+            "curvalue": 28.1,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 64.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "11031",
+            "playername": "Oliver Bearman",
+            "curvalue": 8.6,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 54.0,
+            "rnk": 6
+          },
+          {
+            "playerid": "114",
+            "playername": "Liam Lawson",
+            "curvalue": 6.9,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 40.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "125",
+            "playername": "Carlos Sainz",
+            "curvalue": 12.2,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 37.0,
+            "rnk": 8
+          },
+          {
+            "playerid": "118",
+            "playername": "Esteban Ocon",
+            "curvalue": 8.5,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 33.0,
+            "rnk": 9
+          },
+          {
+            "playerid": "18",
+            "playername": "Pierre Gasly",
+            "curvalue": 12.8,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 31.0,
+            "rnk": 10
+          },
+          {
+            "playerid": "11059",
+            "playername": "Franco Colapinto",
+            "curvalue": 7.0,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 24.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "121",
+            "playername": "Sergio Perez",
+            "curvalue": 6.4,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 24.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "11149",
+            "playername": "Arvid Lindblad",
+            "curvalue": 7.4,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 22.0,
+            "rnk": 13
+          },
+          {
+            "playerid": "11032",
+            "playername": "Isack Hadjar",
+            "curvalue": 13.9,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 11.0,
+            "rnk": 14
+          },
+          {
+            "playerid": "117",
+            "playername": "Lando Norris",
+            "curvalue": 26.8,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": 11.0,
+            "rnk": 14
+          },
+          {
+            "playerid": "11",
+            "playername": "Alexander Albon",
+            "curvalue": 10.8,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 1.0,
+            "rnk": 16
+          },
+          {
+            "playerid": "11051",
+            "playername": "Gabriel Bortoleto",
+            "curvalue": 6.4,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": -1.0,
+            "rnk": 17
+          },
+          {
+            "playerid": "111",
+            "playername": "Nico Hulkenberg",
+            "curvalue": 5.6,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": -13.0,
+            "rnk": 18
+          },
+          {
+            "playerid": "13",
+            "playername": "Valtteri Bottas",
+            "curvalue": 4.7,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": -13.0,
+            "rnk": 18
+          },
+          {
+            "playerid": "12",
+            "playername": "Fernando Alonso",
+            "curvalue": 8.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": -21.0,
+            "rnk": 20
+          },
+          {
+            "playerid": "1982",
+            "playername": "Oscar Piastri",
+            "curvalue": 24.9,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": -21.0,
+            "rnk": 20
+          },
+          {
+            "playerid": "129",
+            "playername": "Lance Stroll",
+            "curvalue": 6.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": -37.0,
+            "rnk": 22
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 1,
+          "order": 2,
+          "key": "fAvg",
+          "title": "driver_statistics_title_fAvg",
+          "columns": [
+            {
+              "title": "statistics_drivers_fAvg_column_1",
+              "showOnMobile": true,
+              "key": "playername",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_fAvg_column_2",
+              "showOnMobile": false,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_fAvg_column_3",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_drivers_fAvg_column_4",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "11161",
+            "playername": "Kimi Antonelli",
+            "curvalue": 23.8,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 50.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "124",
+            "playername": "George Russell",
+            "curvalue": 28.0,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 42.0,
+            "rnk": 2
+          },
+          {
+            "playerid": "115",
+            "playername": "Charles Leclerc",
+            "curvalue": 23.4,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 40.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "110",
+            "playername": "Lewis Hamilton",
+            "curvalue": 22.9,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 36.5,
+            "rnk": 4
+          },
+          {
+            "playerid": "131",
+            "playername": "Max Verstappen",
+            "curvalue": 28.1,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 32.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "11031",
+            "playername": "Oliver Bearman",
+            "curvalue": 8.6,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 27.0,
+            "rnk": 6
+          },
+          {
+            "playerid": "114",
+            "playername": "Liam Lawson",
+            "curvalue": 6.9,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 20.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "125",
+            "playername": "Carlos Sainz",
+            "curvalue": 12.2,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 18.5,
+            "rnk": 8
+          },
+          {
+            "playerid": "118",
+            "playername": "Esteban Ocon",
+            "curvalue": 8.5,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 16.5,
+            "rnk": 9
+          },
+          {
+            "playerid": "18",
+            "playername": "Pierre Gasly",
+            "curvalue": 12.8,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 15.5,
+            "rnk": 10
+          },
+          {
+            "playerid": "11059",
+            "playername": "Franco Colapinto",
+            "curvalue": 7.0,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 12.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "121",
+            "playername": "Sergio Perez",
+            "curvalue": 6.4,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 12.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "11149",
+            "playername": "Arvid Lindblad",
+            "curvalue": 7.4,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 11.0,
+            "rnk": 13
+          },
+          {
+            "playerid": "11032",
+            "playername": "Isack Hadjar",
+            "curvalue": 13.9,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 5.5,
+            "rnk": 14
+          },
+          {
+            "playerid": "117",
+            "playername": "Lando Norris",
+            "curvalue": 26.8,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": 5.5,
+            "rnk": 14
+          },
+          {
+            "playerid": "11",
+            "playername": "Alexander Albon",
+            "curvalue": 10.8,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 0.5,
+            "rnk": 16
+          },
+          {
+            "playerid": "11051",
+            "playername": "Gabriel Bortoleto",
+            "curvalue": 6.4,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": -0.5,
+            "rnk": 17
+          },
+          {
+            "playerid": "111",
+            "playername": "Nico Hulkenberg",
+            "curvalue": 5.6,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": -6.5,
+            "rnk": 18
+          },
+          {
+            "playerid": "13",
+            "playername": "Valtteri Bottas",
+            "curvalue": 4.7,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": -6.5,
+            "rnk": 18
+          },
+          {
+            "playerid": "12",
+            "playername": "Fernando Alonso",
+            "curvalue": 8.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": -10.5,
+            "rnk": 20
+          },
+          {
+            "playerid": "1982",
+            "playername": "Oscar Piastri",
+            "curvalue": 24.9,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": -10.5,
+            "rnk": 20
+          },
+          {
+            "playerid": "129",
+            "playername": "Lance Stroll",
+            "curvalue": 6.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": -18.5,
+            "rnk": 22
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 1,
+          "order": 3,
+          "key": "priceChange",
+          "title": "driver_statistics_title_priceChange",
+          "columns": [
+            {
+              "title": "statistics_drivers_priceChange_column_1",
+              "showOnMobile": true,
+              "key": "playername",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_priceChange_column_2",
+              "showOnMobile": false,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_priceChange_column_3",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_drivers_priceChange_column_4",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "price trend"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "11149",
+            "playername": "Arvid Lindblad",
+            "curvalue": 7.4,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 1.2,
+            "rnk": 1
+          },
+          {
+            "playerid": "118",
+            "playername": "Esteban Ocon",
+            "curvalue": 8.5,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 1.2,
+            "rnk": 1
+          },
+          {
+            "playerid": "11031",
+            "playername": "Oliver Bearman",
+            "curvalue": 8.6,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 1.2,
+            "rnk": 1
+          },
+          {
+            "playerid": "11059",
+            "playername": "Franco Colapinto",
+            "curvalue": 7.0,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 0.8,
+            "rnk": 4
+          },
+          {
+            "playerid": "18",
+            "playername": "Pierre Gasly",
+            "curvalue": 12.8,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 0.8,
+            "rnk": 4
+          },
+          {
+            "playerid": "115",
+            "playername": "Charles Leclerc",
+            "curvalue": 23.4,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 0.6,
+            "rnk": 6
+          },
+          {
+            "playerid": "124",
+            "playername": "George Russell",
+            "curvalue": 28.0,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 0.6,
+            "rnk": 6
+          },
+          {
+            "playerid": "11161",
+            "playername": "Kimi Antonelli",
+            "curvalue": 23.8,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 0.6,
+            "rnk": 6
+          },
+          {
+            "playerid": "125",
+            "playername": "Carlos Sainz",
+            "curvalue": 12.2,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 0.4,
+            "rnk": 9
+          },
+          {
+            "playerid": "110",
+            "playername": "Lewis Hamilton",
+            "curvalue": 22.9,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 0.4,
+            "rnk": 9
+          },
+          {
+            "playerid": "114",
+            "playername": "Liam Lawson",
+            "curvalue": 6.9,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 0.4,
+            "rnk": 9
+          },
+          {
+            "playerid": "131",
+            "playername": "Max Verstappen",
+            "curvalue": 28.1,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 0.4,
+            "rnk": 9
+          },
+          {
+            "playerid": "121",
+            "playername": "Sergio Perez",
+            "curvalue": 6.4,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 0.4,
+            "rnk": 9
+          },
+          {
+            "playerid": "11051",
+            "playername": "Gabriel Bortoleto",
+            "curvalue": 6.4,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": 0.0,
+            "rnk": 14
+          },
+          {
+            "playerid": "117",
+            "playername": "Lando Norris",
+            "curvalue": 26.8,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": -0.4,
+            "rnk": 15
+          },
+          {
+            "playerid": "1982",
+            "playername": "Oscar Piastri",
+            "curvalue": 24.9,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": -0.6,
+            "rnk": 16
+          },
+          {
+            "playerid": "11",
+            "playername": "Alexander Albon",
+            "curvalue": 10.8,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": -0.8,
+            "rnk": 17
+          },
+          {
+            "playerid": "12",
+            "playername": "Fernando Alonso",
+            "curvalue": 8.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": -1.2,
+            "rnk": 18
+          },
+          {
+            "playerid": "11032",
+            "playername": "Isack Hadjar",
+            "curvalue": 13.9,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": -1.2,
+            "rnk": 18
+          },
+          {
+            "playerid": "129",
+            "playername": "Lance Stroll",
+            "curvalue": 6.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": -1.2,
+            "rnk": 18
+          },
+          {
+            "playerid": "111",
+            "playername": "Nico Hulkenberg",
+            "curvalue": 5.6,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": -1.2,
+            "rnk": 18
+          },
+          {
+            "playerid": "13",
+            "playername": "Valtteri Bottas",
+            "curvalue": 4.7,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": -1.2,
+            "rnk": 18
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 1,
+          "order": 4,
+          "key": "mostPicked",
+          "title": "driver_statistics_title_mostPicked",
+          "columns": [
+            {
+              "title": "statistics_drivers_mostPicked_column_1",
+              "showOnMobile": true,
+              "key": "playername",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_mostPicked_column_2",
+              "showOnMobile": false,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_mostPicked_column_3",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_drivers_mostPicked_column_4",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "percentage"
+            }
+          ]
+        },
+        "participants": null
+      },
+      {
+        "config": {
+          "category_id": 1,
+          "order": 5,
+          "key": "pointsPermillion",
+          "title": "driver_statistics_title_pointsPermillion",
+          "columns": [
+            {
+              "title": "statistics_drivers_pointsPermillion_column_1",
+              "showOnMobile": true,
+              "key": "playername",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_pointsPermillion_column_2",
+              "showOnMobile": false,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_pointsPermillion_column_3",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_drivers_pointsPermillion_column_4",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "11031",
+            "playername": "Oliver Bearman",
+            "curvalue": 8.6,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 3.14,
+            "rnk": 1
+          },
+          {
+            "playerid": "114",
+            "playername": "Liam Lawson",
+            "curvalue": 6.9,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 2.9,
+            "rnk": 2
+          },
+          {
+            "playerid": "11161",
+            "playername": "Kimi Antonelli",
+            "curvalue": 23.8,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 2.1,
+            "rnk": 3
+          },
+          {
+            "playerid": "118",
+            "playername": "Esteban Ocon",
+            "curvalue": 8.5,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 1.94,
+            "rnk": 4
+          },
+          {
+            "playerid": "121",
+            "playername": "Sergio Perez",
+            "curvalue": 6.4,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 1.88,
+            "rnk": 5
+          },
+          {
+            "playerid": "115",
+            "playername": "Charles Leclerc",
+            "curvalue": 23.4,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 1.71,
+            "rnk": 6
+          },
+          {
+            "playerid": "11059",
+            "playername": "Franco Colapinto",
+            "curvalue": 7.0,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 1.71,
+            "rnk": 6
+          },
+          {
+            "playerid": "110",
+            "playername": "Lewis Hamilton",
+            "curvalue": 22.9,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 1.59,
+            "rnk": 8
+          },
+          {
+            "playerid": "125",
+            "playername": "Carlos Sainz",
+            "curvalue": 12.2,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 1.52,
+            "rnk": 9
+          },
+          {
+            "playerid": "124",
+            "playername": "George Russell",
+            "curvalue": 28.0,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 1.5,
+            "rnk": 10
+          },
+          {
+            "playerid": "11149",
+            "playername": "Arvid Lindblad",
+            "curvalue": 7.4,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 1.49,
+            "rnk": 11
+          },
+          {
+            "playerid": "18",
+            "playername": "Pierre Gasly",
+            "curvalue": 12.8,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 1.21,
+            "rnk": 12
+          },
+          {
+            "playerid": "131",
+            "playername": "Max Verstappen",
+            "curvalue": 28.1,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 1.14,
+            "rnk": 13
+          },
+          {
+            "playerid": "11032",
+            "playername": "Isack Hadjar",
+            "curvalue": 13.9,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 0.4,
+            "rnk": 14
+          },
+          {
+            "playerid": "117",
+            "playername": "Lando Norris",
+            "curvalue": 26.8,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": 0.21,
+            "rnk": 15
+          },
+          {
+            "playerid": "11",
+            "playername": "Alexander Albon",
+            "curvalue": 10.8,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 0.05,
+            "rnk": 16
+          },
+          {
+            "playerid": "11051",
+            "playername": "Gabriel Bortoleto",
+            "curvalue": 6.4,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": -0.08,
+            "rnk": 17
+          },
+          {
+            "playerid": "1982",
+            "playername": "Oscar Piastri",
+            "curvalue": 24.9,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": -0.42,
+            "rnk": 18
+          },
+          {
+            "playerid": "111",
+            "playername": "Nico Hulkenberg",
+            "curvalue": 5.6,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": -1.16,
+            "rnk": 19
+          },
+          {
+            "playerid": "12",
+            "playername": "Fernando Alonso",
+            "curvalue": 8.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": -1.19,
+            "rnk": 20
+          },
+          {
+            "playerid": "13",
+            "playername": "Valtteri Bottas",
+            "curvalue": 4.7,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": -1.38,
+            "rnk": 21
+          },
+          {
+            "playerid": "129",
+            "playername": "Lance Stroll",
+            "curvalue": 6.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": -2.72,
+            "rnk": 22
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 2,
+          "order": 6,
+          "key": "overTakepoints",
+          "title": "driver_statistics_title_overTakepoints",
+          "columns": [
+            {
+              "title": "statistics_drivers_overTakepoints_column_1",
+              "showOnMobile": true,
+              "key": "playername",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_overTakepoints_column_2",
+              "showOnMobile": false,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_overTakepoints_column_3",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_drivers_overTakepoints_column_4",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "131",
+            "playername": "Max Verstappen",
+            "curvalue": 28.1,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 45.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "118",
+            "playername": "Esteban Ocon",
+            "curvalue": 8.5,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 30.0,
+            "rnk": 2
+          },
+          {
+            "playerid": "11031",
+            "playername": "Oliver Bearman",
+            "curvalue": 8.6,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 25.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "110",
+            "playername": "Lewis Hamilton",
+            "curvalue": 22.9,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 24.0,
+            "rnk": 4
+          },
+          {
+            "playerid": "11149",
+            "playername": "Arvid Lindblad",
+            "curvalue": 7.4,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 22.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "115",
+            "playername": "Charles Leclerc",
+            "curvalue": 23.4,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 22.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "125",
+            "playername": "Carlos Sainz",
+            "curvalue": 12.2,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 21.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "11032",
+            "playername": "Isack Hadjar",
+            "curvalue": 13.9,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 21.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "114",
+            "playername": "Liam Lawson",
+            "curvalue": 6.9,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 21.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "12",
+            "playername": "Fernando Alonso",
+            "curvalue": 8.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": 18.0,
+            "rnk": 10
+          },
+          {
+            "playerid": "11059",
+            "playername": "Franco Colapinto",
+            "curvalue": 7.0,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 17.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "11161",
+            "playername": "Kimi Antonelli",
+            "curvalue": 23.8,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 17.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "111",
+            "playername": "Nico Hulkenberg",
+            "curvalue": 5.6,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": 17.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "18",
+            "playername": "Pierre Gasly",
+            "curvalue": 12.8,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 17.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "11051",
+            "playername": "Gabriel Bortoleto",
+            "curvalue": 6.4,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": 14.0,
+            "rnk": 15
+          },
+          {
+            "playerid": "124",
+            "playername": "George Russell",
+            "curvalue": 28.0,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 14.0,
+            "rnk": 15
+          },
+          {
+            "playerid": "121",
+            "playername": "Sergio Perez",
+            "curvalue": 6.4,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 14.0,
+            "rnk": 15
+          },
+          {
+            "playerid": "11",
+            "playername": "Alexander Albon",
+            "curvalue": 10.8,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 12.0,
+            "rnk": 18
+          },
+          {
+            "playerid": "13",
+            "playername": "Valtteri Bottas",
+            "curvalue": 4.7,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 11.0,
+            "rnk": 19
+          },
+          {
+            "playerid": "129",
+            "playername": "Lance Stroll",
+            "curvalue": 6.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": 7.0,
+            "rnk": 20
+          },
+          {
+            "playerid": "117",
+            "playername": "Lando Norris",
+            "curvalue": 26.8,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": 6.0,
+            "rnk": 21
+          },
+          {
+            "playerid": "1982",
+            "playername": "Oscar Piastri",
+            "curvalue": 24.9,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": 5.0,
+            "rnk": 22
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 2,
+          "order": 7,
+          "key": "podiumsStats",
+          "title": "driver_statistics_title_podiumsStats",
+          "columns": [
+            {
+              "title": "statistics_drivers_podiumsStats_column_1",
+              "showOnMobile": true,
+              "key": "playername",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_podiumsStats_column_2",
+              "showOnMobile": false,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_podiumsStats_column_3",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_drivers_podiumsStats_column_4",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "124",
+            "playername": "George Russell",
+            "curvalue": 28.0,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 2.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "11161",
+            "playername": "Kimi Antonelli",
+            "curvalue": 23.8,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 2.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "115",
+            "playername": "Charles Leclerc",
+            "curvalue": 23.4,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 1.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "110",
+            "playername": "Lewis Hamilton",
+            "curvalue": 22.9,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 1.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "11",
+            "playername": "Alexander Albon",
+            "curvalue": 10.8,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "11149",
+            "playername": "Arvid Lindblad",
+            "curvalue": 7.4,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "125",
+            "playername": "Carlos Sainz",
+            "curvalue": 12.2,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "118",
+            "playername": "Esteban Ocon",
+            "curvalue": 8.5,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "12",
+            "playername": "Fernando Alonso",
+            "curvalue": 8.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "11059",
+            "playername": "Franco Colapinto",
+            "curvalue": 7.0,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "11051",
+            "playername": "Gabriel Bortoleto",
+            "curvalue": 6.4,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "11032",
+            "playername": "Isack Hadjar",
+            "curvalue": 13.9,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "129",
+            "playername": "Lance Stroll",
+            "curvalue": 6.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "117",
+            "playername": "Lando Norris",
+            "curvalue": 26.8,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "114",
+            "playername": "Liam Lawson",
+            "curvalue": 6.9,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "131",
+            "playername": "Max Verstappen",
+            "curvalue": 28.1,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "111",
+            "playername": "Nico Hulkenberg",
+            "curvalue": 5.6,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "11031",
+            "playername": "Oliver Bearman",
+            "curvalue": 8.6,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "1982",
+            "playername": "Oscar Piastri",
+            "curvalue": 24.9,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "18",
+            "playername": "Pierre Gasly",
+            "curvalue": 12.8,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "121",
+            "playername": "Sergio Perez",
+            "curvalue": 6.4,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 0.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "13",
+            "playername": "Valtteri Bottas",
+            "curvalue": 4.7,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 0.0,
+            "rnk": 5
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 2,
+          "order": 8,
+          "key": "topFinshed",
+          "title": "driver_statistics_title_topFinshed",
+          "columns": [
+            {
+              "title": "statistics_drivers_topFinshed_column_1",
+              "showOnMobile": true,
+              "key": "playername",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_topFinshed_column_2",
+              "showOnMobile": false,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_topFinshed_column_3",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_drivers_topFinshed_column_4",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "115",
+            "playername": "Charles Leclerc",
+            "curvalue": 23.4,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 2.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "124",
+            "playername": "George Russell",
+            "curvalue": 28.0,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 2.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "11161",
+            "playername": "Kimi Antonelli",
+            "curvalue": 23.8,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 2.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "110",
+            "playername": "Lewis Hamilton",
+            "curvalue": 22.9,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 2.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "11031",
+            "playername": "Oliver Bearman",
+            "curvalue": 8.6,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 2.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "18",
+            "playername": "Pierre Gasly",
+            "curvalue": 12.8,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 2.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "11149",
+            "playername": "Arvid Lindblad",
+            "curvalue": 7.4,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 1.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "125",
+            "playername": "Carlos Sainz",
+            "curvalue": 12.2,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 1.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "11059",
+            "playername": "Franco Colapinto",
+            "curvalue": 7.0,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 1.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "11051",
+            "playername": "Gabriel Bortoleto",
+            "curvalue": 6.4,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": 1.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "11032",
+            "playername": "Isack Hadjar",
+            "curvalue": 13.9,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 1.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "117",
+            "playername": "Lando Norris",
+            "curvalue": 26.8,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": 1.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "114",
+            "playername": "Liam Lawson",
+            "curvalue": 6.9,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 1.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "131",
+            "playername": "Max Verstappen",
+            "curvalue": 28.1,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 1.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "11",
+            "playername": "Alexander Albon",
+            "curvalue": 10.8,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 0.0,
+            "rnk": 15
+          },
+          {
+            "playerid": "118",
+            "playername": "Esteban Ocon",
+            "curvalue": 8.5,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 0.0,
+            "rnk": 15
+          },
+          {
+            "playerid": "12",
+            "playername": "Fernando Alonso",
+            "curvalue": 8.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": 0.0,
+            "rnk": 15
+          },
+          {
+            "playerid": "129",
+            "playername": "Lance Stroll",
+            "curvalue": 6.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": 0.0,
+            "rnk": 15
+          },
+          {
+            "playerid": "111",
+            "playername": "Nico Hulkenberg",
+            "curvalue": 5.6,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": 0.0,
+            "rnk": 15
+          },
+          {
+            "playerid": "1982",
+            "playername": "Oscar Piastri",
+            "curvalue": 24.9,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": 0.0,
+            "rnk": 15
+          },
+          {
+            "playerid": "121",
+            "playername": "Sergio Perez",
+            "curvalue": 6.4,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 0.0,
+            "rnk": 15
+          },
+          {
+            "playerid": "13",
+            "playername": "Valtteri Bottas",
+            "curvalue": 4.7,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 0.0,
+            "rnk": 15
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 2,
+          "order": 9,
+          "key": "mostDnf",
+          "title": "driver_statistics_title_mostDnf",
+          "columns": [
+            {
+              "title": "statistics_drivers_mostDnf_column_1",
+              "showOnMobile": true,
+              "key": "playername",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_mostDnf_column_2",
+              "showOnMobile": false,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_mostDnf_column_3",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_drivers_mostDnf_column_4",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "12",
+            "playername": "Fernando Alonso",
+            "curvalue": 8.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": 2.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "129",
+            "playername": "Lance Stroll",
+            "curvalue": 6.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": 2.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "1982",
+            "playername": "Oscar Piastri",
+            "curvalue": 24.9,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": 2.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "11",
+            "playername": "Alexander Albon",
+            "curvalue": 10.8,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 1.0,
+            "rnk": 4
+          },
+          {
+            "playerid": "11051",
+            "playername": "Gabriel Bortoleto",
+            "curvalue": 6.4,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": 1.0,
+            "rnk": 4
+          },
+          {
+            "playerid": "11032",
+            "playername": "Isack Hadjar",
+            "curvalue": 13.9,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 1.0,
+            "rnk": 4
+          },
+          {
+            "playerid": "117",
+            "playername": "Lando Norris",
+            "curvalue": 26.8,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": 1.0,
+            "rnk": 4
+          },
+          {
+            "playerid": "131",
+            "playername": "Max Verstappen",
+            "curvalue": 28.1,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 1.0,
+            "rnk": 4
+          },
+          {
+            "playerid": "111",
+            "playername": "Nico Hulkenberg",
+            "curvalue": 5.6,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": 1.0,
+            "rnk": 4
+          },
+          {
+            "playerid": "13",
+            "playername": "Valtteri Bottas",
+            "curvalue": 4.7,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 1.0,
+            "rnk": 4
+          },
+          {
+            "playerid": "11149",
+            "playername": "Arvid Lindblad",
+            "curvalue": 7.4,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 0.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "125",
+            "playername": "Carlos Sainz",
+            "curvalue": 12.2,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 0.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "115",
+            "playername": "Charles Leclerc",
+            "curvalue": 23.4,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 0.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "118",
+            "playername": "Esteban Ocon",
+            "curvalue": 8.5,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 0.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "11059",
+            "playername": "Franco Colapinto",
+            "curvalue": 7.0,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 0.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "124",
+            "playername": "George Russell",
+            "curvalue": 28.0,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 0.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "11161",
+            "playername": "Kimi Antonelli",
+            "curvalue": 23.8,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 0.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "110",
+            "playername": "Lewis Hamilton",
+            "curvalue": 22.9,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 0.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "114",
+            "playername": "Liam Lawson",
+            "curvalue": 6.9,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 0.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "11031",
+            "playername": "Oliver Bearman",
+            "curvalue": 8.6,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 0.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "18",
+            "playername": "Pierre Gasly",
+            "curvalue": 12.8,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 0.0,
+            "rnk": 11
+          },
+          {
+            "playerid": "121",
+            "playername": "Sergio Perez",
+            "curvalue": 6.4,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 0.0,
+            "rnk": 11
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 2,
+          "order": 10,
+          "key": "fastestLap",
+          "title": "driver_statistics_title_fastestLap",
+          "columns": [
+            {
+              "title": "statistics_drivers_fastestLap_column_1",
+              "showOnMobile": true,
+              "key": "playername",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_fastestLap_column_2",
+              "showOnMobile": false,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_fastestLap_column_3",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_drivers_fastestLap_column_4",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "11161",
+            "playername": "Kimi Antonelli",
+            "curvalue": 23.8,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 1.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "131",
+            "playername": "Max Verstappen",
+            "curvalue": 28.1,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 1.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "11",
+            "playername": "Alexander Albon",
+            "curvalue": 10.8,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "11149",
+            "playername": "Arvid Lindblad",
+            "curvalue": 7.4,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "125",
+            "playername": "Carlos Sainz",
+            "curvalue": 12.2,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "115",
+            "playername": "Charles Leclerc",
+            "curvalue": 23.4,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "118",
+            "playername": "Esteban Ocon",
+            "curvalue": 8.5,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "12",
+            "playername": "Fernando Alonso",
+            "curvalue": 8.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "11059",
+            "playername": "Franco Colapinto",
+            "curvalue": 7.0,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "11051",
+            "playername": "Gabriel Bortoleto",
+            "curvalue": 6.4,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "124",
+            "playername": "George Russell",
+            "curvalue": 28.0,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "11032",
+            "playername": "Isack Hadjar",
+            "curvalue": 13.9,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "129",
+            "playername": "Lance Stroll",
+            "curvalue": 6.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "117",
+            "playername": "Lando Norris",
+            "curvalue": 26.8,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "110",
+            "playername": "Lewis Hamilton",
+            "curvalue": 22.9,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "114",
+            "playername": "Liam Lawson",
+            "curvalue": 6.9,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "111",
+            "playername": "Nico Hulkenberg",
+            "curvalue": 5.6,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "11031",
+            "playername": "Oliver Bearman",
+            "curvalue": 8.6,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "1982",
+            "playername": "Oscar Piastri",
+            "curvalue": 24.9,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "18",
+            "playername": "Pierre Gasly",
+            "curvalue": 12.8,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "121",
+            "playername": "Sergio Perez",
+            "curvalue": 6.4,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "13",
+            "playername": "Valtteri Bottas",
+            "curvalue": 4.7,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 0.0,
+            "rnk": 3
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 2,
+          "order": 11,
+          "key": "driverOfday",
+          "title": "driver_statistics_title_driverOfday",
+          "columns": [
+            {
+              "title": "statistics_drivers_driverOfday_column_1",
+              "showOnMobile": true,
+              "key": "playername",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_driverOfday_column_2",
+              "showOnMobile": false,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_drivers_driverOfday_column_3",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_drivers_driverOfday_column_4",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "11161",
+            "playername": "Kimi Antonelli",
+            "curvalue": 23.8,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 1.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "131",
+            "playername": "Max Verstappen",
+            "curvalue": 28.1,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 1.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "11",
+            "playername": "Alexander Albon",
+            "curvalue": 10.8,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "11149",
+            "playername": "Arvid Lindblad",
+            "curvalue": 7.4,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "125",
+            "playername": "Carlos Sainz",
+            "curvalue": 12.2,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "115",
+            "playername": "Charles Leclerc",
+            "curvalue": 23.4,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "118",
+            "playername": "Esteban Ocon",
+            "curvalue": 8.5,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "12",
+            "playername": "Fernando Alonso",
+            "curvalue": 8.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "11059",
+            "playername": "Franco Colapinto",
+            "curvalue": 7.0,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "11051",
+            "playername": "Gabriel Bortoleto",
+            "curvalue": 6.4,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "124",
+            "playername": "George Russell",
+            "curvalue": 28.0,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "11032",
+            "playername": "Isack Hadjar",
+            "curvalue": 13.9,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "129",
+            "playername": "Lance Stroll",
+            "curvalue": 6.8,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "117",
+            "playername": "Lando Norris",
+            "curvalue": 26.8,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "110",
+            "playername": "Lewis Hamilton",
+            "curvalue": 22.9,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "114",
+            "playername": "Liam Lawson",
+            "curvalue": 6.9,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "111",
+            "playername": "Nico Hulkenberg",
+            "curvalue": 5.6,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "11031",
+            "playername": "Oliver Bearman",
+            "curvalue": 8.6,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "1982",
+            "playername": "Oscar Piastri",
+            "curvalue": 24.9,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "18",
+            "playername": "Pierre Gasly",
+            "curvalue": 12.8,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "121",
+            "playername": "Sergio Perez",
+            "curvalue": 6.4,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "13",
+            "playername": "Valtteri Bottas",
+            "curvalue": 4.7,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 0.0,
+            "rnk": 3
+          }
+        ]
+      }
+    ],
+    "constructor": [
+      {
+        "config": {
+          "category_id": 1,
+          "order": 1,
+          "key": "fPoints",
+          "title": "constructor_statistics_title_fPoints",
+          "columns": [
+            {
+              "title": "statistics_constructors_fPoints_column_1",
+              "showOnMobile": true,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_constructors_fPoints_column_2",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_constructors_fPoints_column_3",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "28",
+            "playername": null,
+            "curvalue": 29.9,
+            "teamid": null,
+            "teamname": "Mercedes",
+            "statvalue": 211.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "25",
+            "playername": null,
+            "curvalue": 23.9,
+            "teamid": null,
+            "teamname": "Ferrari",
+            "statvalue": 188.0,
+            "rnk": 2
+          },
+          {
+            "playerid": "26",
+            "playername": null,
+            "curvalue": 8.6,
+            "teamid": null,
+            "teamname": "Haas F1 Team",
+            "statvalue": 99.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "29",
+            "playername": null,
+            "curvalue": 28.8,
+            "teamid": null,
+            "teamname": "Red Bull Racing",
+            "statvalue": 87.0,
+            "rnk": 4
+          },
+          {
+            "playerid": "2636",
+            "playername": null,
+            "curvalue": 7.5,
+            "teamid": null,
+            "teamname": "Racing Bulls",
+            "statvalue": 85.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "23",
+            "playername": null,
+            "curvalue": 13.7,
+            "teamid": null,
+            "teamname": "Alpine",
+            "statvalue": 67.0,
+            "rnk": 6
+          },
+          {
+            "playerid": "210",
+            "playername": null,
+            "curvalue": 13.2,
+            "teamid": null,
+            "teamname": "Williams",
+            "statvalue": 42.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "27",
+            "playername": null,
+            "curvalue": 28.5,
+            "teamid": null,
+            "teamname": "McLaren",
+            "statvalue": 12.0,
+            "rnk": 8
+          },
+          {
+            "playerid": "2641",
+            "playername": null,
+            "curvalue": 5.2,
+            "teamid": null,
+            "teamname": "Cadillac",
+            "statvalue": 9.0,
+            "rnk": 9
+          },
+          {
+            "playerid": "2640",
+            "playername": null,
+            "curvalue": 5.4,
+            "teamid": null,
+            "teamname": "Audi",
+            "statvalue": -4.0,
+            "rnk": 10
+          },
+          {
+            "playerid": "24",
+            "playername": null,
+            "curvalue": 9.1,
+            "teamid": null,
+            "teamname": "Aston Martin",
+            "statvalue": -58.0,
+            "rnk": 11
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 1,
+          "order": 2,
+          "key": "fAvg",
+          "title": "constructor_statistics_title_fAvg",
+          "columns": [
+            {
+              "title": "statistics_constructors_fAvg_column_1",
+              "showOnMobile": true,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_constructors_fAvg_column_2",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_constructors_fAvg_column_3",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "28",
+            "playername": null,
+            "curvalue": 29.9,
+            "teamid": null,
+            "teamname": "Mercedes",
+            "statvalue": 105.5,
+            "rnk": 1
+          },
+          {
+            "playerid": "25",
+            "playername": null,
+            "curvalue": 23.9,
+            "teamid": null,
+            "teamname": "Ferrari",
+            "statvalue": 94.0,
+            "rnk": 2
+          },
+          {
+            "playerid": "26",
+            "playername": null,
+            "curvalue": 8.6,
+            "teamid": null,
+            "teamname": "Haas F1 Team",
+            "statvalue": 49.5,
+            "rnk": 3
+          },
+          {
+            "playerid": "29",
+            "playername": null,
+            "curvalue": 28.8,
+            "teamid": null,
+            "teamname": "Red Bull Racing",
+            "statvalue": 43.5,
+            "rnk": 4
+          },
+          {
+            "playerid": "2636",
+            "playername": null,
+            "curvalue": 7.5,
+            "teamid": null,
+            "teamname": "Racing Bulls",
+            "statvalue": 42.5,
+            "rnk": 5
+          },
+          {
+            "playerid": "23",
+            "playername": null,
+            "curvalue": 13.7,
+            "teamid": null,
+            "teamname": "Alpine",
+            "statvalue": 33.5,
+            "rnk": 6
+          },
+          {
+            "playerid": "210",
+            "playername": null,
+            "curvalue": 13.2,
+            "teamid": null,
+            "teamname": "Williams",
+            "statvalue": 21.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "27",
+            "playername": null,
+            "curvalue": 28.5,
+            "teamid": null,
+            "teamname": "McLaren",
+            "statvalue": 6.0,
+            "rnk": 8
+          },
+          {
+            "playerid": "2641",
+            "playername": null,
+            "curvalue": 5.2,
+            "teamid": null,
+            "teamname": "Cadillac",
+            "statvalue": 4.5,
+            "rnk": 9
+          },
+          {
+            "playerid": "2640",
+            "playername": null,
+            "curvalue": 5.4,
+            "teamid": null,
+            "teamname": "Audi",
+            "statvalue": -2.0,
+            "rnk": 10
+          },
+          {
+            "playerid": "24",
+            "playername": null,
+            "curvalue": 9.1,
+            "teamid": null,
+            "teamname": "Aston Martin",
+            "statvalue": -29.0,
+            "rnk": 11
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 1,
+          "order": 3,
+          "key": "priceChange",
+          "title": "constructor_statistics_title_priceChange",
+          "columns": [
+            {
+              "title": "statistics_constructors_priceChange_column_1",
+              "showOnMobile": true,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_constructors_priceChange_column_2",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_constructors_priceChange_column_3",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "price trend"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "23",
+            "playername": null,
+            "curvalue": 13.7,
+            "teamid": null,
+            "teamname": "Alpine",
+            "statvalue": 1.2,
+            "rnk": 1
+          },
+          {
+            "playerid": "26",
+            "playername": null,
+            "curvalue": 8.6,
+            "teamid": null,
+            "teamname": "Haas F1 Team",
+            "statvalue": 1.2,
+            "rnk": 1
+          },
+          {
+            "playerid": "2636",
+            "playername": null,
+            "curvalue": 7.5,
+            "teamid": null,
+            "teamname": "Racing Bulls",
+            "statvalue": 1.2,
+            "rnk": 1
+          },
+          {
+            "playerid": "210",
+            "playername": null,
+            "curvalue": 13.2,
+            "teamid": null,
+            "teamname": "Williams",
+            "statvalue": 1.2,
+            "rnk": 1
+          },
+          {
+            "playerid": "25",
+            "playername": null,
+            "curvalue": 23.9,
+            "teamid": null,
+            "teamname": "Ferrari",
+            "statvalue": 0.6,
+            "rnk": 5
+          },
+          {
+            "playerid": "28",
+            "playername": null,
+            "curvalue": 29.9,
+            "teamid": null,
+            "teamname": "Mercedes",
+            "statvalue": 0.6,
+            "rnk": 5
+          },
+          {
+            "playerid": "29",
+            "playername": null,
+            "curvalue": 28.8,
+            "teamid": null,
+            "teamname": "Red Bull Racing",
+            "statvalue": 0.6,
+            "rnk": 5
+          },
+          {
+            "playerid": "27",
+            "playername": null,
+            "curvalue": 28.5,
+            "teamid": null,
+            "teamname": "McLaren",
+            "statvalue": -0.4,
+            "rnk": 8
+          },
+          {
+            "playerid": "2641",
+            "playername": null,
+            "curvalue": 5.2,
+            "teamid": null,
+            "teamname": "Cadillac",
+            "statvalue": -0.8,
+            "rnk": 9
+          },
+          {
+            "playerid": "24",
+            "playername": null,
+            "curvalue": 9.1,
+            "teamid": null,
+            "teamname": "Aston Martin",
+            "statvalue": -1.2,
+            "rnk": 10
+          },
+          {
+            "playerid": "2640",
+            "playername": null,
+            "curvalue": 5.4,
+            "teamid": null,
+            "teamname": "Audi",
+            "statvalue": -1.2,
+            "rnk": 10
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 1,
+          "order": 4,
+          "key": "mostPicked",
+          "title": "constructor_statistics_title_mostPicked",
+          "columns": [
+            {
+              "title": "statistics_constructors_mostPicked_column_1",
+              "showOnMobile": true,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_constructors_mostPicked_column_2",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_constructors_mostPicked_column_3",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "percentage"
+            }
+          ]
+        },
+        "participants": null
+      },
+      {
+        "config": {
+          "category_id": 1,
+          "order": 5,
+          "key": "pointsPermillion",
+          "title": "constructor_statistics_title_pointsPermillion",
+          "columns": [
+            {
+              "title": "statistics_constructors_pointsPermillion_column_1",
+              "showOnMobile": true,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_constructors_pointsPermillion_column_2",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_constructors_pointsPermillion_column_3",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "26",
+            "playername": null,
+            "curvalue": 8.6,
+            "teamid": "26",
+            "teamname": "Haas F1 Team",
+            "statvalue": 5.76,
+            "rnk": 1
+          },
+          {
+            "playerid": "2636",
+            "playername": null,
+            "curvalue": 7.5,
+            "teamid": "2636",
+            "teamname": "Racing Bulls",
+            "statvalue": 5.67,
+            "rnk": 2
+          },
+          {
+            "playerid": "25",
+            "playername": null,
+            "curvalue": 23.9,
+            "teamid": "25",
+            "teamname": "Ferrari",
+            "statvalue": 3.93,
+            "rnk": 3
+          },
+          {
+            "playerid": "28",
+            "playername": null,
+            "curvalue": 29.9,
+            "teamid": "28",
+            "teamname": "Mercedes",
+            "statvalue": 3.53,
+            "rnk": 4
+          },
+          {
+            "playerid": "23",
+            "playername": null,
+            "curvalue": 13.7,
+            "teamid": "23",
+            "teamname": "Alpine",
+            "statvalue": 2.45,
+            "rnk": 5
+          },
+          {
+            "playerid": "210",
+            "playername": null,
+            "curvalue": 13.2,
+            "teamid": "210",
+            "teamname": "Williams",
+            "statvalue": 1.59,
+            "rnk": 6
+          },
+          {
+            "playerid": "29",
+            "playername": null,
+            "curvalue": 28.8,
+            "teamid": "29",
+            "teamname": "Red Bull Racing",
+            "statvalue": 1.51,
+            "rnk": 7
+          },
+          {
+            "playerid": "2641",
+            "playername": null,
+            "curvalue": 5.2,
+            "teamid": "2641",
+            "teamname": "Cadillac",
+            "statvalue": 0.87,
+            "rnk": 8
+          },
+          {
+            "playerid": "27",
+            "playername": null,
+            "curvalue": 28.5,
+            "teamid": "27",
+            "teamname": "McLaren",
+            "statvalue": 0.21,
+            "rnk": 9
+          },
+          {
+            "playerid": "2640",
+            "playername": null,
+            "curvalue": 5.4,
+            "teamid": "2640",
+            "teamname": "Audi",
+            "statvalue": -0.37,
+            "rnk": 10
+          },
+          {
+            "playerid": "24",
+            "playername": null,
+            "curvalue": 9.1,
+            "teamid": "24",
+            "teamname": "Aston Martin",
+            "statvalue": -3.19,
+            "rnk": 11
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 2,
+          "order": 6,
+          "key": "overTakepoints",
+          "title": "constructor_statistics_title_overTakepoints",
+          "columns": [
+            {
+              "title": "statistics_constructors_overTakepoints_column_1",
+              "showOnMobile": true,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_constructors_overTakepoints_column_2",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_constructors_overTakepoints_column_3",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "29",
+            "playername": null,
+            "curvalue": 28.8,
+            "teamid": null,
+            "teamname": "Red Bull Racing",
+            "statvalue": 66.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "26",
+            "playername": null,
+            "curvalue": 8.6,
+            "teamid": null,
+            "teamname": "Haas F1 Team",
+            "statvalue": 55.0,
+            "rnk": 2
+          },
+          {
+            "playerid": "25",
+            "playername": null,
+            "curvalue": 23.9,
+            "teamid": null,
+            "teamname": "Ferrari",
+            "statvalue": 46.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "2636",
+            "playername": null,
+            "curvalue": 7.5,
+            "teamid": null,
+            "teamname": "Racing Bulls",
+            "statvalue": 43.0,
+            "rnk": 4
+          },
+          {
+            "playerid": "23",
+            "playername": null,
+            "curvalue": 13.7,
+            "teamid": null,
+            "teamname": "Alpine",
+            "statvalue": 34.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "210",
+            "playername": null,
+            "curvalue": 13.2,
+            "teamid": null,
+            "teamname": "Williams",
+            "statvalue": 33.0,
+            "rnk": 6
+          },
+          {
+            "playerid": "2640",
+            "playername": null,
+            "curvalue": 5.4,
+            "teamid": null,
+            "teamname": "Audi",
+            "statvalue": 31.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "28",
+            "playername": null,
+            "curvalue": 29.9,
+            "teamid": null,
+            "teamname": "Mercedes",
+            "statvalue": 31.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "24",
+            "playername": null,
+            "curvalue": 9.1,
+            "teamid": null,
+            "teamname": "Aston Martin",
+            "statvalue": 25.0,
+            "rnk": 9
+          },
+          {
+            "playerid": "2641",
+            "playername": null,
+            "curvalue": 5.2,
+            "teamid": null,
+            "teamname": "Cadillac",
+            "statvalue": 25.0,
+            "rnk": 9
+          },
+          {
+            "playerid": "27",
+            "playername": null,
+            "curvalue": 28.5,
+            "teamid": null,
+            "teamname": "McLaren",
+            "statvalue": 11.0,
+            "rnk": 11
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 2,
+          "order": 7,
+          "key": "podiumsStats",
+          "title": "constructor_statistics_title_podiumsStats",
+          "columns": [
+            {
+              "title": "statistics_constructors_podiumsStats_column_1",
+              "showOnMobile": true,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_constructors_podiumsStats_column_2",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_constructors_podiumsStats_column_3",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "28",
+            "playername": null,
+            "curvalue": 29.9,
+            "teamid": null,
+            "teamname": "Mercedes",
+            "statvalue": 4.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "25",
+            "playername": null,
+            "curvalue": 23.9,
+            "teamid": null,
+            "teamname": "Ferrari",
+            "statvalue": 2.0,
+            "rnk": 2
+          },
+          {
+            "playerid": "23",
+            "playername": null,
+            "curvalue": 13.7,
+            "teamid": null,
+            "teamname": "Alpine",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "24",
+            "playername": null,
+            "curvalue": 9.1,
+            "teamid": null,
+            "teamname": "Aston Martin",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "2640",
+            "playername": null,
+            "curvalue": 5.4,
+            "teamid": null,
+            "teamname": "Audi",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "2641",
+            "playername": null,
+            "curvalue": 5.2,
+            "teamid": null,
+            "teamname": "Cadillac",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "26",
+            "playername": null,
+            "curvalue": 8.6,
+            "teamid": null,
+            "teamname": "Haas F1 Team",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "27",
+            "playername": null,
+            "curvalue": 28.5,
+            "teamid": null,
+            "teamname": "McLaren",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "2636",
+            "playername": null,
+            "curvalue": 7.5,
+            "teamid": null,
+            "teamname": "Racing Bulls",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "29",
+            "playername": null,
+            "curvalue": 28.8,
+            "teamid": null,
+            "teamname": "Red Bull Racing",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "210",
+            "playername": null,
+            "curvalue": 13.2,
+            "teamid": null,
+            "teamname": "Williams",
+            "statvalue": 0.0,
+            "rnk": 3
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 2,
+          "order": 8,
+          "key": "topFinshed",
+          "title": "constructor_statistics_title_topFinshed",
+          "columns": [
+            {
+              "title": "statistics_constructors_topFinshed_column_1",
+              "showOnMobile": true,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_constructors_topFinshed_column_2",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_constructors_topFinshed_column_3",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "25",
+            "playername": null,
+            "curvalue": 23.9,
+            "teamid": null,
+            "teamname": "Ferrari",
+            "statvalue": 4.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "28",
+            "playername": null,
+            "curvalue": 29.9,
+            "teamid": null,
+            "teamname": "Mercedes",
+            "statvalue": 4.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "23",
+            "playername": null,
+            "curvalue": 13.7,
+            "teamid": null,
+            "teamname": "Alpine",
+            "statvalue": 3.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "26",
+            "playername": null,
+            "curvalue": 8.6,
+            "teamid": null,
+            "teamname": "Haas F1 Team",
+            "statvalue": 2.0,
+            "rnk": 4
+          },
+          {
+            "playerid": "2636",
+            "playername": null,
+            "curvalue": 7.5,
+            "teamid": null,
+            "teamname": "Racing Bulls",
+            "statvalue": 2.0,
+            "rnk": 4
+          },
+          {
+            "playerid": "29",
+            "playername": null,
+            "curvalue": 28.8,
+            "teamid": null,
+            "teamname": "Red Bull Racing",
+            "statvalue": 2.0,
+            "rnk": 4
+          },
+          {
+            "playerid": "2640",
+            "playername": null,
+            "curvalue": 5.4,
+            "teamid": null,
+            "teamname": "Audi",
+            "statvalue": 1.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "27",
+            "playername": null,
+            "curvalue": 28.5,
+            "teamid": null,
+            "teamname": "McLaren",
+            "statvalue": 1.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "210",
+            "playername": null,
+            "curvalue": 13.2,
+            "teamid": null,
+            "teamname": "Williams",
+            "statvalue": 1.0,
+            "rnk": 7
+          },
+          {
+            "playerid": null,
+            "playername": null,
+            "curvalue": 9.1,
+            "teamid": null,
+            "teamname": "Aston Martin",
+            "statvalue": null,
+            "rnk": 10
+          },
+          {
+            "playerid": null,
+            "playername": null,
+            "curvalue": 5.2,
+            "teamid": null,
+            "teamname": "Cadillac",
+            "statvalue": null,
+            "rnk": 10
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 2,
+          "order": 9,
+          "key": "mostDnf",
+          "title": "constructor_statistics_title_mostDnf",
+          "columns": [
+            {
+              "title": "statistics_constructors_mostDnf_column_1",
+              "showOnMobile": true,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_constructors_mostDnf_column_2",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_constructors_mostDnf_column_3",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "24",
+            "playername": null,
+            "curvalue": 9.1,
+            "teamid": null,
+            "teamname": "Aston Martin",
+            "statvalue": 2.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "2640",
+            "playername": null,
+            "curvalue": 5.4,
+            "teamid": null,
+            "teamname": "Audi",
+            "statvalue": 2.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "27",
+            "playername": null,
+            "curvalue": 28.5,
+            "teamid": null,
+            "teamname": "McLaren",
+            "statvalue": 2.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "29",
+            "playername": null,
+            "curvalue": 28.8,
+            "teamid": null,
+            "teamname": "Red Bull Racing",
+            "statvalue": 2.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "2641",
+            "playername": null,
+            "curvalue": 5.2,
+            "teamid": null,
+            "teamname": "Cadillac",
+            "statvalue": 1.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "210",
+            "playername": null,
+            "curvalue": 13.2,
+            "teamid": null,
+            "teamname": "Williams",
+            "statvalue": 1.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "23",
+            "playername": null,
+            "curvalue": 13.7,
+            "teamid": null,
+            "teamname": "Alpine",
+            "statvalue": 0.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "25",
+            "playername": null,
+            "curvalue": 23.9,
+            "teamid": null,
+            "teamname": "Ferrari",
+            "statvalue": 0.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "26",
+            "playername": null,
+            "curvalue": 8.6,
+            "teamid": null,
+            "teamname": "Haas F1 Team",
+            "statvalue": 0.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "28",
+            "playername": null,
+            "curvalue": 29.9,
+            "teamid": null,
+            "teamname": "Mercedes",
+            "statvalue": 0.0,
+            "rnk": 7
+          },
+          {
+            "playerid": "2636",
+            "playername": null,
+            "curvalue": 7.5,
+            "teamid": null,
+            "teamname": "Racing Bulls",
+            "statvalue": 0.0,
+            "rnk": 7
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 2,
+          "order": 10,
+          "key": "fastestLap",
+          "title": "constructor_statistics_title_fastestLap",
+          "columns": [
+            {
+              "title": "statistics_constructors_fastestLap_column_1",
+              "showOnMobile": true,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_constructors_fastestLap_column_2",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_constructors_fastestLap_column_3",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "28",
+            "playername": null,
+            "curvalue": 29.9,
+            "teamid": null,
+            "teamname": "Mercedes",
+            "statvalue": 1.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "29",
+            "playername": null,
+            "curvalue": 28.8,
+            "teamid": null,
+            "teamname": "Red Bull Racing",
+            "statvalue": 1.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "23",
+            "playername": null,
+            "curvalue": 13.7,
+            "teamid": null,
+            "teamname": "Alpine",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "24",
+            "playername": null,
+            "curvalue": 9.1,
+            "teamid": null,
+            "teamname": "Aston Martin",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "2640",
+            "playername": null,
+            "curvalue": 5.4,
+            "teamid": null,
+            "teamname": "Audi",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "2641",
+            "playername": null,
+            "curvalue": 5.2,
+            "teamid": null,
+            "teamname": "Cadillac",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "25",
+            "playername": null,
+            "curvalue": 23.9,
+            "teamid": null,
+            "teamname": "Ferrari",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "26",
+            "playername": null,
+            "curvalue": 8.6,
+            "teamid": null,
+            "teamname": "Haas F1 Team",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "27",
+            "playername": null,
+            "curvalue": 28.5,
+            "teamid": null,
+            "teamname": "McLaren",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "2636",
+            "playername": null,
+            "curvalue": 7.5,
+            "teamid": null,
+            "teamname": "Racing Bulls",
+            "statvalue": 0.0,
+            "rnk": 3
+          },
+          {
+            "playerid": "210",
+            "playername": null,
+            "curvalue": 13.2,
+            "teamid": null,
+            "teamname": "Williams",
+            "statvalue": 0.0,
+            "rnk": 3
+          }
+        ]
+      },
+      {
+        "config": {
+          "category_id": 2,
+          "order": 11,
+          "key": "fastestPitstopstats",
+          "title": "constructor_statistics_title_fastestPitstopstats",
+          "columns": [
+            {
+              "title": "statistics_constructors_fastestPitstopstats_column_1",
+              "showOnMobile": true,
+              "key": "teamname",
+              "type": "text"
+            },
+            {
+              "title": "statistics_constructors_fastestPitstopstats_column_2",
+              "showOnMobile": true,
+              "key": "curvalue",
+              "type": "price"
+            },
+            {
+              "title": "statistics_constructors_fastestPitstopstats_column_3",
+              "showOnMobile": true,
+              "key": "statvalue",
+              "type": "text"
+            }
+          ]
+        },
+        "participants": [
+          {
+            "playerid": "28",
+            "playername": null,
+            "curvalue": 29.9,
+            "teamid": null,
+            "teamname": "Mercedes",
+            "statvalue": 12.0,
+            "rnk": 1
+          },
+          {
+            "playerid": "25",
+            "playername": null,
+            "curvalue": 23.9,
+            "teamid": null,
+            "teamname": "Ferrari",
+            "statvalue": 10.0,
+            "rnk": 2
+          },
+          {
+            "playerid": "2636",
+            "playername": null,
+            "curvalue": 7.5,
+            "teamid": null,
+            "teamname": "Racing Bulls",
+            "statvalue": 10.0,
+            "rnk": 2
+          },
+          {
+            "playerid": "29",
+            "playername": null,
+            "curvalue": 28.8,
+            "teamid": null,
+            "teamname": "Red Bull Racing",
+            "statvalue": 7.0,
+            "rnk": 4
+          },
+          {
+            "playerid": "23",
+            "playername": null,
+            "curvalue": 13.7,
+            "teamid": null,
+            "teamname": "Alpine",
+            "statvalue": 4.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "26",
+            "playername": null,
+            "curvalue": 8.6,
+            "teamid": null,
+            "teamname": "Haas F1 Team",
+            "statvalue": 4.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "210",
+            "playername": null,
+            "curvalue": 13.2,
+            "teamid": null,
+            "teamname": "Williams",
+            "statvalue": 4.0,
+            "rnk": 5
+          },
+          {
+            "playerid": "24",
+            "playername": null,
+            "curvalue": 9.1,
+            "teamid": null,
+            "teamname": "Aston Martin",
+            "statvalue": 2.0,
+            "rnk": 8
+          },
+          {
+            "playerid": "2640",
+            "playername": null,
+            "curvalue": 5.4,
+            "teamid": null,
+            "teamname": "Audi",
+            "statvalue": 2.0,
+            "rnk": 8
+          },
+          {
+            "playerid": "27",
+            "playername": null,
+            "curvalue": 28.5,
+            "teamid": null,
+            "teamname": "McLaren",
+            "statvalue": 2.0,
+            "rnk": 8
+          },
+          {
+            "playerid": "2641",
+            "playername": null,
+            "curvalue": 5.2,
+            "teamid": null,
+            "teamname": "Cadillac",
+            "statvalue": 0.0,
+            "rnk": 11
+          }
+        ]
+      }
+    ]
+  },
+  "Meta": {
+    "Message": "Success",
+    "RetVal": 1,
+    "Success": true,
+    "Timestamp": {
+      "UTCTime": "3/15/2026 1:46:42 PM",
+      "ISTTime": "3/15/2026 7:16:42 PM",
+      "CESTTime": "3/15/2026 2:46:42 PM"
+    },
+    "StatusCode": 200,
+    "Maintenance": ""
+  }
+}

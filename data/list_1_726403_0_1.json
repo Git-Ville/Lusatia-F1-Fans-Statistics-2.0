@@ -1,0 +1,201 @@
+{
+  "Value": {
+    "leaderboard": [
+      {
+        "trend": 0,
+        "team_no": 1,
+        "cur_rank": 1,
+        "social_id": "43179493",
+        "team_name": "Zakspeed%20F1",
+        "user_name": "Paul Herrmann",
+        "user_guid": "59303246-14bf-11f1-b360-13b77b403f7d-0-43179493",
+        "user_team": [
+          "124",
+          "11161",
+          "115",
+          "110",
+          "117",
+          "28",
+          "25"
+        ],
+        "cur_points": 732.0
+      },
+      {
+        "trend": 0,
+        "team_no": 1,
+        "cur_rank": 2,
+        "social_id": "188319434",
+        "team_name": "Bluelight%20RT",
+        "user_name": "Martin Tesch",
+        "user_guid": "5f178cec-126f-11f1-ad65-9f7c69117d24-0-188319434",
+        "user_team": [
+          "124",
+          "11161",
+          "115",
+          "110",
+          "117",
+          "28",
+          "25"
+        ],
+        "cur_points": 722.0
+      },
+      {
+        "trend": 0,
+        "team_no": 1,
+        "cur_rank": 3,
+        "social_id": "43368310",
+        "team_name": "K-M-S%20Racing",
+        "user_name": "Julius Titz",
+        "user_guid": "115fe22e-1175-11f1-9480-777385bb1726-0-43368310",
+        "user_team": [
+          "124",
+          "115",
+          "11161",
+          "110",
+          "117",
+          "25",
+          "28"
+        ],
+        "cur_points": 715.0
+      },
+      {
+        "trend": 0,
+        "team_no": 1,
+        "cur_rank": 4,
+        "social_id": "217786816",
+        "team_name": "Team%20Tsch%C3%B6ke",
+        "user_name": "Fabian Tscharntke",
+        "user_guid": "15529ee8-1545-11f1-a32d-390710f1a2bf-0-217786816",
+        "user_team": [
+          "124",
+          "11161",
+          "115",
+          "110",
+          "117",
+          "25",
+          "28"
+        ],
+        "cur_points": 711.0
+      },
+      {
+        "trend": 0,
+        "team_no": 1,
+        "cur_rank": 5,
+        "social_id": "155832378",
+        "team_name": "Katharacing2026",
+        "user_name": "Katharina Jurenz",
+        "user_guid": "50394f12-18a5-11f1-ac2f-33c109147a63-0-155832378",
+        "user_team": [
+          "11161",
+          "124",
+          "11031",
+          "11059",
+          "11149",
+          "25",
+          "2636"
+        ],
+        "cur_points": 645.0
+      },
+      {
+        "trend": 1,
+        "team_no": 1,
+        "cur_rank": 6,
+        "social_id": "155727835",
+        "team_name": "Erics%20Munich%20Motorsports",
+        "user_name": "Eric Böhme",
+        "user_guid": "074bfe9e-192c-11f1-aa3f-4931a55a59bd-0-155727835",
+        "user_team": [
+          "124",
+          "114",
+          "11031",
+          "11051",
+          "11149",
+          "28",
+          "26"
+        ],
+        "cur_points": 575.0
+      },
+      {
+        "trend": 1,
+        "team_no": 1,
+        "cur_rank": 7,
+        "social_id": "76207519",
+        "team_name": "MB-Purple-F1%202026",
+        "user_name": "Marcel Bellmann",
+        "user_guid": "ae3d0346-122f-11f1-a0d7-b147d1cd8b69-0-76207519",
+        "user_team": [
+          "124",
+          "11051",
+          "11031",
+          "11149",
+          "118",
+          "28",
+          "26"
+        ],
+        "cur_points": 559.0
+      },
+      {
+        "trend": 1,
+        "team_no": 1,
+        "cur_rank": 8,
+        "social_id": "202842412",
+        "team_name": "Zajac%20Racing",
+        "user_name": "Fabian Haase",
+        "user_guid": "21d87fc0-17f7-11f1-b602-3b91dd12bd68-0-202842412",
+        "user_team": [
+          "124",
+          "11149",
+          "11032",
+          "11031",
+          "111",
+          "26",
+          "28"
+        ],
+        "cur_points": 518.0
+      },
+      {
+        "trend": -1,
+        "team_no": 1,
+        "cur_rank": 9,
+        "social_id": "188138369",
+        "team_name": "Crosta%20City%20Racing",
+        "user_name": "Max Jurenz",
+        "user_guid": "a0a92110-1996-11f1-a389-b76523066a14-0-188138369",
+        "user_team": [
+          "11161",
+          "115",
+          "131",
+          "124",
+          "1982",
+          "28",
+          "27"
+        ],
+        "cur_points": 503.0
+      },
+      {
+        "trend": 0,
+        "team_no": 1,
+        "cur_rank": 10,
+        "social_id": "232497649",
+        "team_name": "RingsOnFire",
+        "user_name": "Marco Schiemann",
+        "user_guid": "f381a96c-193b-11f1-844c-33c73ef0e4be-0-232497649",
+        "user_team": [
+          "111",
+          "11051",
+          "11149",
+          "11032",
+          "11161",
+          "2640",
+          "28"
+        ],
+        "cur_points": 368.0
+      }
+    ]
+  },
+  "FeedTime": {
+    "UTCTime": "3/15/2026 2:04:59 PM",
+    "ISTTime": "3/15/2026 7:34:59 PM",
+    "CESTTime": "3/15/2026 3:04:59 PM"
+  }
+}

@@ -249,11 +249,11 @@ with tab3:
         team_dnf = sum([dnf_katalog.get(pid, 0.0) for pid in ids])
         manager_dnfs.append({'Teamname': manager_name, 'DNFs im Team': team_dnf})
 
-    #df_dnf = pd.DataFrame(manager_dnfs)
-    #df_dnf = df_dnf.merge(df_aktuell[['Teamname', 'Manager']], on='Teamname', how='inner')
+    df_dnf = pd.DataFrame(manager_dnfs)
+    df_dnf = df_dnf.merge(df_aktuell[['Teamname', 'Manager']], on='Teamname', how='inner')
 
-    #st.subheader(" Pechvögel (Gesamte DNFs in der Saison)")
-    #df_dnf_sort = df_dnf.sort_values('DNFs im Team', ascending=False)
+    st.subheader(" Pechvögel (Gesamte DNFs in der Saison)")
+    df_dnf_sort = df_dnf.sort_values('DNFs im Team', ascending=False)
     
     chart_dnfs = alt.Chart(df_dnf_sort).mark_bar(cornerRadiusTopLeft=5, cornerRadiusTopRight=5).encode(
         x=alt.X('Manager:N', sort='-y', title='Manager', axis=alt.Axis(labelAngle=0)),
@@ -262,10 +262,10 @@ with tab3:
         tooltip=['Manager', 'DNFs im Team']
     ).properties(height=400)
     
-    st.altair_chart(chart_dnfs, use_container_width=True)
-    st.markdown("---")
-    st.subheader("Liga-Meta: Pick-Raten (%)")
-    st.markdown("Wie viel Prozent der Manager haben diesen Fahrer/Konstrukteur aktuell?")
+    #st.altair_chart(chart_dnfs, use_container_width=True)
+    #st.markdown("---")
+    #st.subheader("Liga-Meta: Pick-Raten (%)")
+    #st.markdown("Wie viel Prozent der Manager haben diesen Fahrer/Konstrukteur aktuell?")
     
     pick_anzahl = collections.Counter(alle_picks)
     df_beliebt = pd.DataFrame(pick_anzahl.items(), columns=['ID', 'Anzahl'])

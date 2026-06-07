@@ -223,48 +223,6 @@ with tab2:
     st.markdown("---")
 
 with tab3:
-    with open('data/list_1_726403_0_1.json', 'r') as f:
-        liga_data = json.load(f)
-    with open('data/driverconstructors_4.json', 'r') as f:
-        stats_data = json.load(f)
-
-    dnf_katalog = {}
-    name_katalog = {}
-    for cat in stats_data['Data']['driver'] + stats_data['Data']['constructor']:
-        if cat['config']['key'] == 'fPoints':
-            for p in cat['participants']:
-                name_katalog[p['playerid']] = p.get('playername') or p.get('teamname')
-        if cat['config']['key'] == 'mostDnf':
-            for p in cat['participants']:
-                dnf_katalog[p['playerid']] = p.get('statvalue', 0.0)
-
-    manager_dnfs = []
-    alle_picks = []
-    total_managers = len(liga_data['Value']['leaderboard'])
-
-    for team in liga_data['Value']['leaderboard']:
-        manager_name = urllib.parse.unquote(team['team_name'])
-        ids = team['user_team']
-        alle_picks.extend(ids)
-        team_dnf = sum([dnf_katalog.get(pid, 0.0) for pid in ids])
-        manager_dnfs.append({'Teamname': manager_name, 'DNFs im Team': team_dnf})
-
-    df_dnf = pd.DataFrame(manager_dnfs)
-    df_dnf = df_dnf.merge(df_aktuell[['Teamname', 'Manager']], on='Teamname', how='inner')
-
-    st.subheader(" Pechvögel (Gesamte DNFs in der Saison)")
-    df_dnf_sort = df_dnf.sort_values('DNFs im Team', ascending=False)
-    
-    chart_dnfs = alt.Chart(df_dnf_sort).mark_bar(cornerRadiusTopLeft=5, cornerRadiusTopRight=5).encode(
-        x=alt.X('Manager:N', sort='-y', title='Manager', axis=alt.Axis(labelAngle=0)),
-        y=alt.Y('DNFs im Team:Q', title='Anzahl Ausfälle (DNFs)', axis=alt.Axis(tickMinStep=1, format='d')),
-        color=alt.Color('Manager:N', scale=manager_farben, legend=None),
-        tooltip=['Manager', 'DNFs im Team']
-    ).properties(height=400)
-    
-    st.altair_chart(chart_dnfs, use_container_width=True)
-    st.markdown("---")
-
     st.subheader("Liga-Meta: Pick-Raten (%)")
     st.markdown("Wie viel Prozent der Manager haben diesen Fahrer/Konstrukteur aktuell?")
     
